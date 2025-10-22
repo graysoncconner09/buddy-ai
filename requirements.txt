@@ -1,0 +1,5 @@
+flask
+twilio
+transformers
+torch
+flask-cors
